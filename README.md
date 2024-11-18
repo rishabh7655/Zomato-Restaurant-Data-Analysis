@@ -1,11 +1,11 @@
 # Zomato-Restaurant-Data-Analysis
-Objective:
+Objective:<br>
 The primary goal of this project is to perform a descriptive analysis of restaurant data from Zomato. This analysis aims to understand business trends across different countries, including restaurant preferences, ratings, and pricing, helping stakeholders make data-driven decisions.
 
-Dataset Description:
+Dataset Description:<br>
 The analysis is based on two datasets:
 
-Restaurant Dataset:
+Restaurant Dataset:<br>
 Contains information about restaurants, including cuisines, ratings, and costs.
 
 Key columns: <br>
