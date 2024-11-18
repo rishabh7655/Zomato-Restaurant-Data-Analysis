@@ -10,15 +10,15 @@ Contains information about restaurants, including cuisines, ratings, and costs.
 
 Key columns: <br>
 Restaurant ID: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Unique identifier for each restaurant.<br>
-Restaurant Name:       Name of the restaurant.<br>
-Country Code:           Numeric code representing the country.<br>
-City:                   City where the restaurant is located.<br>
-Cuisines:               Types of cuisines offered.<br>
-Average Cost for Two:   Approximate cost for two people dining.<br>
-Has Table Booking:      Indicates whether the restaurant allows table bookings.<br>
-Has Online Delivery:    Indicates if online delivery is available.<br>
-Aggregate Rating:       Overall customer rating.<br>
-Votes:                  Number of votes received for the rating.
+Restaurant Name:  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Name of the restaurant.<br>
+Country Code:   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Numeric code representing the country.<br>
+City:         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          City where the restaurant is located.<br>
+Cuisines:    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Types of cuisines offered.<br>
+Average Cost for Two:  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approximate cost for two people dining.<br>
+Has Table Booking:   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Indicates whether the restaurant allows table bookings.<br>
+Has Online Delivery: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Indicates if online delivery is available.<br>
+Aggregate Rating:    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Overall customer rating.<br>
+Votes:       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Number of votes received for the rating.
 
 Country Dataset:<br>
 Contains a mapping of Country Code to country names.
