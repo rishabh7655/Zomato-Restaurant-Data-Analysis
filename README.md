@@ -9,17 +9,53 @@ Restaurant Dataset:<br>
 Contains information about restaurants, including cuisines, ratings, and costs.
 
 Key columns: <br>
-Restaurant ID: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Unique identifier for each restaurant.<br>
-Restaurant Name:  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Name of the restaurant.<br>
-Country Code:   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Numeric code representing the country.<br>
-City:         &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          City where the restaurant is located.<br>
-Cuisines:    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Types of cuisines offered.<br>
-Average Cost for Two:  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Approximate cost for two people dining.<br>
-Has Table Booking:   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Indicates whether the restaurant allows table bookings.<br>
-Has Online Delivery: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Indicates if online delivery is available.<br>
-Aggregate Rating:    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Overall customer rating.<br>
-Votes:       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Number of votes received for the rating.
 
+<table>
+        <tr>
+            <th>Column Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Restaurant ID</td>
+            <td>Unique identifier for each restaurant</td>
+        </tr>
+        <tr>
+            <td>Restaurant Name</td>
+            <td>Name of the restaurant</td>
+        </tr>
+        <tr>
+            <td>Country Code</td>
+            <td>Numeric code representing the country</td>
+        </tr>
+        <tr>
+            <td>City</td>
+            <td>City where the restaurant is located</td>
+        </tr>
+        <tr>
+            <td>Cuisines</td>
+            <td>Types of cuisines offered</td>
+        </tr>
+        <tr>
+            <td>Average Cost for Two</td>
+            <td>Approximate cost for two people dining</td>
+        </tr>
+        <tr>
+            <td>Has Table Booking</td>
+            <td>Indicates whether the restaurant allows table bookings</td>
+        </tr>
+        <tr>
+            <td>Has Online Delivery</td>
+            <td>Indicates if online delivery is available</td>
+        </tr>
+        <tr>
+            <td>Aggregate Rating</td>
+            <td>Overall customer rating</td>
+        </tr>
+        <tr>
+            <td>Votes</td>
+            <td>Number of votes received for the rating</td>
+        </tr>
+    </table>
 Country Dataset:<br>
 Contains a mapping of Country Code to country names.
 
