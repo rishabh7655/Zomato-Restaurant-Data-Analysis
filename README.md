@@ -8,7 +8,7 @@ The analysis is based on two datasets:
 Restaurant Dataset:
 Contains information about restaurants, including cuisines, ratings, and costs.
 
-Key columns:
+Key columns: <br>
 Restaurant ID:          Unique identifier for each restaurant.
 Restaurant Name:        Name of the restaurant.
 Country Code:           Numeric code representing the country.
