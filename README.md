@@ -9,27 +9,27 @@ Restaurant Dataset:
 Contains information about restaurants, including cuisines, ratings, and costs.
 
 Key columns: <br>
-Restaurant ID:          Unique identifier for each restaurant.
-Restaurant Name:        Name of the restaurant.
-Country Code:           Numeric code representing the country.
-City:                   City where the restaurant is located.
-Cuisines:               Types of cuisines offered.
-Average Cost for Two:   Approximate cost for two people dining.
-Has Table Booking:      Indicates whether the restaurant allows table bookings.
-Has Online Delivery:    Indicates if online delivery is available.
-Aggregate Rating:       Overall customer rating.
+Restaurant ID:          Unique identifier for each restaurant.<br>
+Restaurant Name:        Name of the restaurant.<br>
+Country Code:           Numeric code representing the country.<br>
+City:                   City where the restaurant is located.<br>
+Cuisines:               Types of cuisines offered.<br>
+Average Cost for Two:   Approximate cost for two people dining.<br>
+Has Table Booking:      Indicates whether the restaurant allows table bookings.<br>
+Has Online Delivery:    Indicates if online delivery is available.<br>
+Aggregate Rating:       Overall customer rating.<br>
 Votes:                  Number of votes received for the rating.
 
-Country Dataset:
+Country Dataset:<br>
 Contains a mapping of Country Code to country names.
 
 
-Tools Used:
+Tools Used:<br>
 Power BI: For creating an interactive dashboard to visualize trends and insights.
 
 
 
-Conclusion
+Conclusion<br>
 The Zomato restaurant data reveals a wide variety of popular cuisines. Customer preferences show that a significant number of restaurants do not offer table booking or online delivery services. Rating trends indicate that countries like the Philippines have the highest ratings, while cities like Panchkula and Hyderabad have the highest dining costs. These insights can help restaurant owners optimize pricing, services, and offerings.
 
 
