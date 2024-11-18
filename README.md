@@ -9,8 +9,8 @@ Restaurant Dataset:<br>
 Contains information about restaurants, including cuisines, ratings, and costs.
 
 Key columns: <br>
-Restaurant ID: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;        Unique identifier for each restaurant.<br>
-Restaurant Name:  <pre>      Name of the restaurant.<br>
+Restaurant ID: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;        Unique identifier for each restaurant.<br>
+Restaurant Name:       Name of the restaurant.<br>
 Country Code:           Numeric code representing the country.<br>
 City:                   City where the restaurant is located.<br>
 Cuisines:               Types of cuisines offered.<br>
