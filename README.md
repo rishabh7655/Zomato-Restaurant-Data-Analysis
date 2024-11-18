@@ -57,11 +57,11 @@ Key columns: <br>
         </tr>
     </table>
 Country Dataset:<br>
-Contains a mapping of Country Code to country names.
-<br>
+Contains a mapping of Country Code to country names.<br>
+
 
 Tools Used:<br>
-Power BI: For creating an interactive dashboard to visualize trends and insights.<br>
+Power BI: For creating an interactive dashboard to visualize trends and insights.
 <br>
 
 
